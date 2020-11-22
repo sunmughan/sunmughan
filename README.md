@@ -38,11 +38,13 @@
 
 ---
 
-![GitHub stats]
+### Informative Github Stats
+
 <a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunmughan&count_private=true&theme=default&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunmughan&theme=buefy&layout=compact" />
 </a>
+
 ---
 
 ### You can find in me in the web 🌍
