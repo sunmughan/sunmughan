@@ -38,7 +38,7 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunmughan&count_private=true&theme=default&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunmughan&count_private=true&theme=default&show_icons=true)(https://github-readme-stats.vercel.app/api/top-langs/?username=sunmughan&count_private=true&theme=default&show_icons=true)
 
 ---
 
