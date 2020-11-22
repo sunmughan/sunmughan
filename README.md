@@ -37,8 +37,6 @@
 
 ---
 
-### Informative Github Stats
-
 <p align="center">
   <div align="center">
 <a href="">
