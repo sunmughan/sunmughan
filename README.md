@@ -40,7 +40,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+Check for a detailed stats here :point_right: [Sourcerer](https://github-readme-stats.vercel.app/api?username=sunmughan&count_private=true&theme=default&show_icons=true)
 
 ---
 
@@ -53,8 +53,4 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 <br/>
 
-
 ---
-
-![Sunmughan's Github Stats](https://github-readme-stats.vercel.app/api?username=sunmughan&count_private=true&theme=default&show_icons=true)
-
