@@ -40,22 +40,15 @@
 ### Informative Github Stats
 
 <a href="">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sunmughan&count_private=true&theme=default&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunmughan&theme=buefy&layout=compact" />
+  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=sunmughan&count_private=true&theme=default&show_icons=true" />
+  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunmughan&theme=buefy&layout=compact" />
 </a>
 
 ---
 
 ### You can find in me in the web 🌍
-<p align="center">
-<img align="left" alt="Sunmughan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />(https://codeair.in)
-<img align="left" alt="Sunmughan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />(https://www.facebook.com/sunmughans)
-<img align="left" alt="Sunmughan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />(https://t.me/sunmughan)
-<img align="left" alt="Sunmughan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />(https://in.linkedin.com/in/sunmughan)
-<img align="left" alt="Sunmughan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />(https://www.instagram.com/sunmughan)
-<img align="left" alt="Sunmughan | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />(skype:sunmughan?chat)
-<img align="left" alt="Sunmughan | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />(https://www.youtube.com/sunmughanswamy)
-</p>
+
+<p align="center">[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sunmughans) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sunmughan) [![Patreon](https://img.shields.io/badge/patreon-%23F96854.svg?&style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/sunmughan) [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sunmughan) [![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sunmughan) [![Playstore](https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/dev?id=7531084747324353001) [![Blog](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://dxadda.blogspot.com)</p>
 <br/>
 
 ---
