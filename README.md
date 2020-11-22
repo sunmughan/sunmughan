@@ -48,13 +48,13 @@
 
 ### You can find in me in the web 🌍
 <p align="center">
-[<img align="left" alt="Sunmughan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://codeair.in)
-[<img align="left" alt="Sunmughan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/sunmughans)
-[<img align="left" alt="Sunmughan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/sunmughan)
-[<img align="left" alt="Sunmughan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://in.linkedin.com/in/sunmughan)
-[<img align="left" alt="Sunmughan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sunmughan)
-[<img align="left" alt="Sunmughan | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />](skype:sunmughan?chat)
-[<img align="left" alt="Sunmughan | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/sunmughanswamy)
+<img align="left" alt="Sunmughan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />(https://codeair.in)
+<img align="left" alt="Sunmughan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />(https://www.facebook.com/sunmughans)
+<img align="left" alt="Sunmughan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />(https://t.me/sunmughan)
+<img align="left" alt="Sunmughan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />(https://in.linkedin.com/in/sunmughan)
+<img align="left" alt="Sunmughan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />(https://www.instagram.com/sunmughan)
+<img align="left" alt="Sunmughan | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />(skype:sunmughan?chat)
+<img align="left" alt="Sunmughan | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />(https://www.youtube.com/sunmughanswamy)
 </p>
 <br/>
 
