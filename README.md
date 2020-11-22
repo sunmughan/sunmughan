@@ -38,8 +38,11 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunmughan&count_private=true&theme=default&show_icons=true)(https://github-readme-stats.vercel.app/api/top-langs/?username=sunmughan&count_private=true&theme=default&show_icons=true)
-
+![GitHub stats]
+<a href="">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunmughan&count_private=true&theme=default&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunmughan&theme=buefy&layout=compact" />
+</a>
 ---
 
 ### You can find in me in the web 🌍
