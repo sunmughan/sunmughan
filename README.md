@@ -6,6 +6,7 @@
 - I’m currently (trying to) learn Machine Learning
 - I dabble in Android, Xcode, Flutter, React Native, Kotlin, Java, Rust, PHP, Xamarin, Ionic, UI/UX and spend most of my time automating my life via literally living inside the terminal.
 - I often blog about random tips/tricks and (mostly) Android in the past [at] [DROIDADDA](https://dxadda.blogspot.com/)
+- 
 - Fun fact about me: I love playing 🕹&nbsp;retro games and survive on 🍨 instead of energy drinks 🙇🏻‍♂️ &nbsp;Possibly this is why I also talk a lot 🤔
 
 ---
@@ -45,5 +46,53 @@
 
 </div>
 </p>
+
+---
+
+<p align="center">
+  <div align="center">
+We deliver Specifically designed software services & digital solutions for our clients, to cater to their unique business goals. We guarantee quality, effectiveness, and quick time to market. Our offshore software development services are geared to deliver results that you expect from an Indian IT outsourcing company. Truthfulness, transparency and collaborative approach is a start! Here are some of the services that make us one of the emerging software development companies in India:
+</div>
+</p>
+
+<table style="height: 110px; width: 612px; border-color: #949494; background-color: #e3f4ff; margin-left: auto; margin-right: auto;" border="1" cellspacing="3" cellpadding="5">
+<tbody>
+<tr style="height: 46.8px;">
+<td style="width: 157.6px; height: 46.8px; text-align: center;">&nbsp;<strong>Development</strong></td>
+<td style="width: 158.4px; height: 46.8px; text-align: center;">&nbsp;<strong>Custom Services</strong></td>
+<td style="width: 148.8px; height: 46.8px; text-align: center;">&nbsp;<strong>IT Solutions</strong></td>
+<td style="width: 146.4px; height: 46.8px; text-align: center;">&nbsp;<strong>Enterprise Solutions&nbsp;</strong></td>
+</tr>
+<tr style="height: 42px;">
+<td style="width: 157.6px; height: 42px; text-align: center;">&nbsp;Mobile Application</td>
+<td style="width: 158.4px; height: 42px; text-align: center;">&nbsp;OnDemand Software Development</td>
+<td style="width: 148.8px; height: 42px; text-align: center;">&nbsp;Real-time Chat</td>
+<td style="width: 146.4px; height: 42px; text-align: center;">&nbsp;QA &amp; Testing</td>
+</tr>
+<tr style="height: 42px;">
+<td style="width: 157.6px; height: 42px; text-align: center;">&nbsp;Web Application</td>
+<td style="width: 158.4px; height: 42px; text-align: center;">&nbsp;Software Product Development</td>
+<td style="width: 148.8px; height: 42px; text-align: center;">&nbsp;Computer Vision</td>
+<td style="width: 146.4px; height: 42px; text-align: center;">&nbsp;Interactive Email</td>
+</tr>
+<tr style="height: 39px;">
+<td style="width: 157.6px; height: 39px; text-align: center;">&nbsp;Software Development</td>
+<td style="width: 158.4px; height: 39px; text-align: center;">&nbsp;Managed Services</td>
+<td style="width: 148.8px; height: 39px; text-align: center;">&nbsp;Internet of Things</td>
+<td style="width: 146.4px; height: 39px; text-align: center;">&nbsp;DevOps &amp; CI/CD</td>
+</tr>
+<tr style="height: 35px;">
+<td style="width: 157.6px; height: 35px; text-align: center;">&nbsp;Cloud Application</td>
+<td style="width: 158.4px; height: 35px; text-align: center;">&nbsp;Software Outsourcing</td>
+<td style="width: 148.8px; height: 35px; text-align: center;">&nbsp;Big Data</td>
+<td style="width: 146.4px; height: 35px; text-align: center;">&nbsp;Artificial Intelligence</td>
+</tr>
+</tbody>
+</table>
+
+<p align="center">
+  <div align="center">
+[![Visit Website Now](https://img.shields.io/badge/Website-www.codeair.in-blue?style=for-the-badge&logo=appveyor)](https://codeair.in)
+</div></p>
 
 ---
