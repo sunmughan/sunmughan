@@ -39,10 +39,14 @@
 
 ### Informative Github Stats
 
+<p align="center">
+  <div align="center">
 <a href="">
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=sunmughan&count_private=true&theme=default&show_icons=true" />
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunmughan&theme=buefy&layout=compact" />
 </a>
+</div>
+</p>
 
 ---
 
