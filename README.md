@@ -1,4 +1,4 @@
-<h2>Hi there 👋 I am Sunmughan, an Indian software developer maintly but touches everything, servers, bots, community management, events, social networks and more. Read more about me below:</h2>
+<h2>Hi there 👋 I am Sunmughan, an Indian software developer mainly but touches everything, servers, bots, community management, events, social networks and more. Read more about me below:</h2>
 
 - I’m primarily a Full Stack Developer. 
 - I like experimenting with tech. This has led me into many interesting domains such as writing firmware code for Android Smartphones and building mobile SDKs for Android & iOS. 
