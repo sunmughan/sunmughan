@@ -50,10 +50,8 @@
 ---
 
 <p align="center">
-  <div align="center">
-We deliver Specifically designed software services & digital solutions for our clients, to cater to their unique business goals. We guarantee quality, effectiveness, and quick time to market. Our offshore software development services are geared to deliver results that you expect from an Indian IT outsourcing company. Truthfulness, transparency and collaborative approach is a start! Here are some of the services that make us one of the emerging software development companies in India:
-</div>
-</p>
+<div align="center"><h2>Our Offshore Software Development Services</h2>
+We deliver Specifically designed software services & digital solutions for our clients, to cater to their unique business goals. We guarantee quality, effectiveness, and quick time to market. Our offshore software development services are geared to deliver results that you expect from an Indian IT outsourcing company. Truthfulness, transparency and collaborative approach is a start! Here are some of the services that make us one of the emerging software development companies in India:<br/>
 
 <table style="height: 110px; width: 612px; border-color: #949494; background-color: #e3f4ff; margin-left: auto; margin-right: auto;" border="1" cellspacing="3" cellpadding="5">
 <tbody>
@@ -90,9 +88,9 @@ We deliver Specifically designed software services & digital solutions for our c
 </tbody>
 </table>
 
-<p align="center">
-  <div align="center">
 [![Visit Website Now](https://img.shields.io/badge/Website-www.codeair.in-blue?style=for-the-badge&logo=appveyor)](https://codeair.in)
-</div></p>
+
+</div>
+</p>
 
 ---
