@@ -1,3 +1,9 @@
+<p align="center">
+  <div align="center">
+![Visitors](https://api.visitorbadge.io/api/visitors?path=sunmughan&label=Stalker&countColor=%23263759)
+  </div>
+</p>
+
 <h2>Hi there 👋 I am Sunmughan, an Indian software developer mainly but touches everything, servers, bots, community management, events, social networks and more. Read more about me below:</h2>
 
 - I’m primarily a Full Stack Developer. 
@@ -8,12 +14,6 @@
 - I love music and when i have enough time i used to record then and start mixing and mastering on it. 
 - I often blog about random tips/tricks and (mostly) Android in the past [at] [DROIDADDA](https://dxadda.blogspot.com/)
 - Fun fact about me: I love playing 🕹&nbsp;retro games and survive on 🍨 instead of energy drinks 🙇🏻‍♂️ &nbsp;Possibly this is why I also talk a lot 🤔
-
----
-
-<div align="center">
-![Visitors](https://api.visitorbadge.io/api/visitors?path=sunmughan&label=Stalker&countColor=%23263759)
-</div>
 
 ---
 
