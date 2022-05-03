@@ -11,11 +11,9 @@
 
 ---
 
-<p align="center">
-  <div align="center">
+<div align="center">
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=sunmughan&label=Stalker&countColor=%23263759)
 </div>
-</p>
 
 ---
 
