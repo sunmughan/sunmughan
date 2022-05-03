@@ -1,8 +1,4 @@
-<p align="center">
-  <div align="center">
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=sunmughan&label=Stalker&countColor=%23263759)
-  </div>
-</p>
 
 <h2>Hi there 👋 I am Sunmughan, an Indian software developer mainly but touches everything, servers, bots, community management, events, social networks and more. Read more about me below:</h2>
 
