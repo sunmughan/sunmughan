@@ -10,6 +10,8 @@
 - Fun fact about me: I love playing 🕹&nbsp;retro games and survive on 🍨 instead of energy drinks 🙇🏻‍♂️ &nbsp;Possibly this is why I also talk a lot 🤔
 
 ---
+![Visitors](https://api.visitorbadge.io/api/visitors?path=sunmughan&label=Stalker&countColor=%23263759)
+---
 
 <p align="center">
   <div align="center"><h3>Skills, Tech & Tools Preferences</h3>
