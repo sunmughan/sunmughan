@@ -36,9 +36,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunmughan&count_private=true&theme=default&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunmughan&theme=buefy&layout=compact" />
 </a>
+<img alt="Sunmughan' Trophy" src="https://github-profile-trophy.vercel.app/?username=sunmughan&row=1" width="auto" height="auto" /><br/>
 </div>
 </p>
-[![My's github trophy](https://github-profile-trophy.vercel.app/?username=sunmughan&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
