@@ -1,6 +1,5 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=sunmughan&label=Stalker&countColor=%23263759)
-
-<h2>Hi there 👋 I am Sunmughan, an Indian software developer mainly but touches everything, servers, bots, community management, events, social networks and more. Read more about me below:</h2>
+<h2>Dear visitor, welcome to my profile 👋 </h2>
+<h3>I am Sunmughan, an Indian software developer mainly but touches everything, servers, bots, community management, events, social networks and more. Read more about me below:</h3>
 
 - I’m primarily a Full Stack Developer. 
 - I like experimenting with tech. This has led me into many interesting domains such as writing firmware code for Android Smartphones and building mobile SDKs for Android & iOS. 
@@ -44,10 +43,14 @@
 ---
 
 <p align="center">
-  <div align="center">
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sunmughan) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sunmughan) [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sunmughan) [![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sunmughan) [![Playstore](https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/dev?id=7531084747324353001) [![Blog](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://dxadda.blogspot.com) [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/sunmughanswamy)
-</div>
-</p>
+  <div align="center"><h3>My Highlighted Projects</h3></div></p>
+
+- CIL Guru: https://codeair.in/portfolio/cil-guru-astrology-learning-app-for-android/
+- Free Video Conference App: https://play.google.com/store/apps/details?id=codeair.conference.app
+- Vidhhya Online School ERP App (WIP): https://play.google.com/store/apps/details?id=codeair.vidhhya.lms
+- Astro Bamola - Live Astrology App: https://codeair.in/portfolio/astro-bamola/
+- Open Source Corona Tracker with Lots of Features: https://github.com/sunmughan/corona_tracker-awareness_app
+- YouPlayPro Online Quiz WebApp: https://youplaypro.com
 
 ---
 
