@@ -1,5 +1,5 @@
 <h2>Dear visitor, welcome to my profile 👋 </h2>
-<h3>I am Sunmughan, the Founder & CEO of CodeAir (Bespoke Software Development Company) currently living in Durg, Chhattisgarh. I am professionally experienced as an Indian Artist, Entrepreneur and Software Developer mainly. I am also interested in music, servers, bots, community management, sports, travelling, events, social networks and more. Do navigate downwards to know more about me: </h3>
+<h3>I am Sunmughan, the Founder & CEO of CodeAir (Bespoke Software Development Company). I am professionally experienced as an Indian Artist, Entrepreneur and Software Developer mainly. I am also interested in music, servers, bots, community management, sports, travelling, events, social networks and more. Do navigate downwards to know more about me: </h3>
 
 - I’m primarily a Full Stack Developer. 
 - I like experimenting with tech. This has led me into many interesting domains such as writing firmware code for Android Smartphones and building mobile SDKs for Android & iOS. 
