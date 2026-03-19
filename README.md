@@ -54,15 +54,37 @@ I’m **Sunmughan Swamy** — a **Founder & Tech Architect** building scalable S
 
 ## 🏢 ECOSYSTEM
 
-| 🚀 Core Ventures | 🧩 PixelGo Ecosystem | 🏢 Enterprise & Clients |
-|----------------|---------------------|------------------------|
-| [Codeair Technologies](https://codeair.in) | [PixelGo](https://pixelgo.live) | [Maviinci](https://maviinci.in) |
-| [1Mitra](https://1mitra.com) | [POS](https://pos.pixelgo.live) | [TestDev](https://testdev.io) |
-| [Printless](https://printless.me) | [Gym](https://gym.pixelgo.live) | [CodeAir Tech](https://codeair.tech) |
-|  | [Hospital](https://hms.pixelgo.live) | [Prateek Tiles](https://prateektilesandmarbles.com) |
-|  | [School](https://school.pixelgo.live) | [Nita Kitchenware](https://nitakitchenware.com) |
-|  | [Education](https://edu.pixelgo.live) | [Finwell](https://finwell.ltd) |
-|  | [E-commerce](https://store.pixelgo.live) | [Arogyam Crossfit](https://arogyamcrossfit.com) |
+### 🚀 Core Ventures
+
+| Brand | Description | Link |
+|------|------------|------|
+| CodeAir Technologies | Global software development company building scalable digital products & enterprise systems | https://codeair.in |
+| 1Mitra | AI-powered automation & productivity ecosystem for businesses and individuals | https://1mitra.com |
+| Printless | Digital business card SaaS platform enabling smart networking via QR & NFC | https://printless.me |
+
+### 🧩 PixelGo Ecosystem
+
+| Product | Description | Link |
+|--------|------------|------|
+| PixelGo | Core multi-tenant SaaS infrastructure powering business applications | https://pixelgo.live |
+| POS | Point of Sale system for retail businesses with real-time billing & analytics | https://pos.pixelgo.live |
+| Gym | Gym management system for memberships, tracking & automation | https://gym.pixelgo.live |
+| Hospital | HMS platform for managing patients, billing & hospital workflows | https://hms.pixelgo.live |
+| School | School ERP system for managing academic operations & administration | https://school.pixelgo.live |
+| Education | E-learning platform for courses, students & digital education systems | https://edu.pixelgo.live |
+| E-commerce | Online store management system with inventory & order automation | https://store.pixelgo.live |
+
+### 🏢 Enterprise & Clients
+
+| Brand | Description | Link |
+|------|------------|------|
+| Maviinci | Fashion & lifestyle brand with digital commerce infrastructure | https://maviinci.in |
+| TestDev | Development & testing platform for scalable applications | https://testdev.io |
+| CodeAir Tech | Technology solutions & product development division | https://codeair.tech |
+| Prateek Tiles | Tiles & marble business with digital presence & catalog systems | https://prateektilesandmarbles.com |
+| Nita Kitchenware | Kitchenware brand with e-commerce & product distribution system | https://nitakitchenware.com |
+| Finwell | Fintech & investment platform with secure API-driven infrastructure | https://finwell.ltd |
+| Arogyam Crossfit | Fitness & gym brand with digital membership & operations system | https://arogyamcrossfit.com |
 
 ---
 
