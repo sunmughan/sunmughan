@@ -164,7 +164,7 @@ Microservices • APIs • Automation • AI
 
 ## 🌐 CONNECT
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/sunmughan">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
