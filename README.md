@@ -54,47 +54,36 @@ I’m **Sunmughan Swamy** — a **Founder & Tech Architect** building scalable S
 
 ## 🏢 ECOSYSTEM
 
-<table align="center" width="100%" style="border-collapse: collapse; text-align: center;">
-<tr>
-<th>🚀 Core Ventures</th>
-<th>🧩 PixelGo Ecosystem</th>
-<th>🏢 Enterprise & Clients</th>
-</tr>
+<div align="center">
 
-<tr>
-<td>
-
-<a href="https://codeair.tech">Codeair Technologies</a><br/>
-<a href="https://1mitra.com">1Mitra</a><br/>
+### 🚀 Core Ventures
+<a href="https://codeair.tech">Codeair Technologies</a> • 
+<a href="https://1mitra.com">1Mitra</a> • 
 <a href="https://printless.me">Printless</a>
 
-</td>
+<br/><br/>
 
-<td>
-
-<a href="https://pixelgo.live">PixelGo</a><br/>
-<a href="https://pos.pixelgo.live">POS</a><br/>
-<a href="https://gym.pixelgo.live">Gym</a><br/>
-<a href="https://hms.pixelgo.live">Hospital</a><br/>
-<a href="https://school.pixelgo.live">School</a><br/>
-<a href="https://edu.pixelgo.live">Education</a><br/>
+### 🧩 PixelGo Ecosystem
+<a href="https://pixelgo.live">PixelGo</a> • 
+<a href="https://pos.pixelgo.live">POS</a> • 
+<a href="https://gym.pixelgo.live">Gym</a> • 
+<a href="https://hms.pixelgo.live">Hospital</a> • 
+<a href="https://school.pixelgo.live">School</a> • 
+<a href="https://edu.pixelgo.live">Education</a> • 
 <a href="https://store.pixelgo.live">E-commerce</a>
 
-</td>
+<br/><br/>
 
-<td>
-
-<a href="https://maviinci.in">Maviinci</a><br/>
-<a href="https://testdev.io">TestDev</a><br/>
-<a href="https://codeair.tech">CodeAir Tech</a><br/>
-<a href="https://prateektilesandmarbles.com">Prateek Tiles</a><br/>
-<a href="https://nitakitchenware.com">Nita Kitchenware</a><br/>
-<a href="https://finwell.ltd">Finwell</a><br/>
+### 🏢 Enterprise & Clients
+<a href="https://maviinci.in">Maviinci</a> • 
+<a href="https://testdev.io">TestDev</a> • 
+<a href="https://codeair.tech">CodeAir Tech</a> • 
+<a href="https://prateektilesandmarbles.com">Prateek Tiles</a> • 
+<a href="https://nitakitchenware.com">Nita Kitchenware</a> • 
+<a href="https://finwell.ltd">Finwell</a> • 
 <a href="https://arogyamcrossfit.com">Arogyam Crossfit</a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
