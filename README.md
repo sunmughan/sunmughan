@@ -134,9 +134,8 @@ Microservices • APIs • Automation • AI
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sunmughan&show_icons=true&theme=tokyonight" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunmughan&layout=compact&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunmughan&theme=onestar" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunmughan&theme=tokyonight" />
 </p>
 
 ---
