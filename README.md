@@ -54,34 +54,47 @@ I’m **Sunmughan Swamy** — a **Founder & Tech Architect** building scalable S
 
 ## 🏢 ECOSYSTEM
 
-### 🔹 Core
-- https://codeair.tech  
-- https://1mitra.com  
-- https://printless.me  
+<table align="center" width="100%" style="border-collapse: collapse; text-align: center;">
+<tr>
+<th>🚀 Core Ventures</th>
+<th>🧩 PixelGo Ecosystem</th>
+<th>🏢 Enterprise & Clients</th>
+</tr>
 
----
+<tr>
+<td>
 
-### 🔹 PixelGo Infra
+<a href="https://codeair.tech">Codeair Technologies</a><br/>
+<a href="https://1mitra.com">1Mitra</a><br/>
+<a href="https://printless.me">Printless</a>
 
-- https://pixelgo.live  
-- https://pos.pixelgo.live  
-- https://gym.pixelgo.live  
-- https://hms.pixelgo.live  
-- https://school.pixelgo.live  
-- https://edu.pixelgo.live  
-- https://store.pixelgo.live  
+</td>
 
----
+<td>
 
-### 🔹 Enterprise & Clients
+<a href="https://pixelgo.live">PixelGo</a><br/>
+<a href="https://pos.pixelgo.live">POS</a><br/>
+<a href="https://gym.pixelgo.live">Gym</a><br/>
+<a href="https://hms.pixelgo.live">Hospital</a><br/>
+<a href="https://school.pixelgo.live">School</a><br/>
+<a href="https://edu.pixelgo.live">Education</a><br/>
+<a href="https://store.pixelgo.live">E-commerce</a>
 
-- https://maviinci.in  
-- https://testdev.io  
-- https://codeair.tech  
-- https://prateektilesandmarbles.com  
-- https://nitakitchenware.com  
-- https://finwell.ltd  
-- https://arogyamcrossfit.com  
+</td>
+
+<td>
+
+<a href="https://maviinci.in">Maviinci</a><br/>
+<a href="https://testdev.io">TestDev</a><br/>
+<a href="https://codeair.tech">CodeAir Tech</a><br/>
+<a href="https://prateektilesandmarbles.com">Prateek Tiles</a><br/>
+<a href="https://nitakitchenware.com">Nita Kitchenware</a><br/>
+<a href="https://finwell.ltd">Finwell</a><br/>
+<a href="https://arogyamcrossfit.com">Arogyam Crossfit</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
