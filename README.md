@@ -61,6 +61,7 @@ I’m **Sunmughan Swamy** — a **Founder & Tech Architect** building scalable S
 | CodeAir Technologies | Global software development company building scalable digital products & enterprise systems | https://codeair.in |
 | 1Mitra | AI-powered automation & productivity ecosystem for businesses and individuals | https://1mitra.com |
 | Printless | Digital business card SaaS platform enabling smart networking via QR & NFC | https://printless.me |
+| Gurukulam Khushiyon Wala School | GKWS (Gurukulam Khushiyon Wala School) is a non-profit organization dedicated to transforming lives and building resilient communities through compassionate service and sustainable development. | https://gkws.org.in |
 
 ### 🧩 PixelGo Ecosystem
 
