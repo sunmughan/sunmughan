@@ -27,7 +27,7 @@ I’m **Sunmughan Swamy** — a **Founder & Tech Architect** building scalable S
 
 ---
 
-## 💰 STARTUP SNAPSHOT (INVESTOR VIEW)
+## 💰 STARTUP SNAPSHOT
 
 | Metric | Value |
 |------|------|
@@ -54,36 +54,15 @@ I’m **Sunmughan Swamy** — a **Founder & Tech Architect** building scalable S
 
 ## 🏢 ECOSYSTEM
 
-<div align="center">
-
-### 🚀 Core Ventures
-<a href="https://codeair.tech">Codeair Technologies</a> • 
-<a href="https://1mitra.com">1Mitra</a> • 
-<a href="https://printless.me">Printless</a>
-
-<br/><br/>
-
-### 🧩 PixelGo Ecosystem
-<a href="https://pixelgo.live">PixelGo</a> • 
-<a href="https://pos.pixelgo.live">POS</a> • 
-<a href="https://gym.pixelgo.live">Gym</a> • 
-<a href="https://hms.pixelgo.live">Hospital</a> • 
-<a href="https://school.pixelgo.live">School</a> • 
-<a href="https://edu.pixelgo.live">Education</a> • 
-<a href="https://store.pixelgo.live">E-commerce</a>
-
-<br/><br/>
-
-### 🏢 Enterprise & Clients
-<a href="https://maviinci.in">Maviinci</a> • 
-<a href="https://testdev.io">TestDev</a> • 
-<a href="https://codeair.tech">CodeAir Tech</a> • 
-<a href="https://prateektilesandmarbles.com">Prateek Tiles</a> • 
-<a href="https://nitakitchenware.com">Nita Kitchenware</a> • 
-<a href="https://finwell.ltd">Finwell</a> • 
-<a href="https://arogyamcrossfit.com">Arogyam Crossfit</a>
-
-</div>
+| 🚀 Core Ventures | 🧩 PixelGo Ecosystem | 🏢 Enterprise & Clients |
+|----------------|---------------------|------------------------|
+| [Codeair Technologies](https://codeair.in) | [PixelGo](https://pixelgo.live) | [Maviinci](https://maviinci.in) |
+| [1Mitra](https://1mitra.com) | [POS](https://pos.pixelgo.live) | [TestDev](https://testdev.io) |
+| [Printless](https://printless.me) | [Gym](https://gym.pixelgo.live) | [CodeAir Tech](https://codeair.tech) |
+|  | [Hospital](https://hms.pixelgo.live) | [Prateek Tiles](https://prateektilesandmarbles.com) |
+|  | [School](https://school.pixelgo.live) | [Nita Kitchenware](https://nitakitchenware.com) |
+|  | [Education](https://edu.pixelgo.live) | [Finwell](https://finwell.ltd) |
+|  | [E-commerce](https://store.pixelgo.live) | [Arogyam Crossfit](https://arogyamcrossfit.com) |
 
 ---
 
