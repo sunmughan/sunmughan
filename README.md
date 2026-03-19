@@ -69,7 +69,7 @@ I’m **Sunmughan Swamy** — a **Founder & Tech Architect** building scalable S
 | PixelGo | Core multi-tenant SaaS infrastructure powering business applications | https://pixelgo.live |
 | POS | Point of Sale system for retail businesses with real-time billing & analytics | https://pos.pixelgo.live |
 | Gym | Gym management system for memberships, tracking & automation | https://gym.pixelgo.live |
-| Hospital | HMS platform for managing patients, billing & hospital workflows | https://hms.pixelgo.live |
+| Hotel | HMS platform for managing hotel operations, billing & restaurant workflows | https://hms.pixelgo.live |
 | School | School ERP system for managing academic operations & administration | https://school.pixelgo.live |
 | Education | E-learning platform for courses, students & digital education systems | https://edu.pixelgo.live |
 | E-commerce | Online store management system with inventory & order automation | https://store.pixelgo.live |
