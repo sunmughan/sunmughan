@@ -1,204 +1,263 @@
 <div align="center">
 
-# Sunmughan Swamy
-### AI Product Engineer · AI Solutions Architect · Founder & CTO
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:7c3aed&text=SUNMUGHAN%20SWAMY&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20PRODUCT%20ENGINEER%20%E2%80%A2%20SOLUTIONS%20ARCHITECT%20%E2%80%A2%20FOUNDER%20%26%20CTO&descAlignY=62&descSize=15&animation=twinkling" width="100%" />
 
-**I design and build AI-powered products, agentic systems, and scalable software infrastructure.**
+<br/>
 
-[![Website](https://img.shields.io/badge/Website-CodeAir-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codeair.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunmughan)
-[![GitHub](https://img.shields.io/badge/GitHub-sunmughan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunmughan)
-[![Remote](https://img.shields.io/badge/Remote-Worldwide-16A34A?style=for-the-badge)](#-remote-availability)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+AI+systems+that+ship+to+production.;Agentic+AI+%7C+LLMs+%7C+RAG+%7C+MCP+%7C+Voice+AI;Architecture+%2B+Product+Thinking+%2B+Execution;Turning+complex+business+workflows+into+software." alt="Typing animation" />
+
+<br/>
+
+<a href="https://codeair.tech"><img src="https://img.shields.io/badge/🌐%20CodeAir-111827?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/sunmughan"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge" /></a>
+<a href="https://github.com/sunmughan"><img src="https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge" /></a>
+<a href="mailto:sunmughan@gmail.com"><img src="https://img.shields.io/badge/📧%20Contact-7C3AED?style=for-the-badge" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sunmughan&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/sunmughan?style=for-the-badge&label=FOLLOWERS" />
 
 </div>
 
 ---
 
-## ⚡ About Me
+## ⚡ THE SHORT VERSION
 
-I'm a **software engineer, product architect, founder and CTO** with **10+ years of engineering experience**, focused on turning complex ideas and business workflows into reliable, scalable products.
+<table>
+<tr>
+<td width="58%">
 
-My strongest area today is **AI product engineering** — combining LLMs, agents, automation, voice interfaces, APIs and full-stack systems into products that can actually operate in production.
+I'm a **software engineer, product architect, founder and CTO** with **10+ years of engineering experience** building products from architecture through production.
 
-> **I don't just integrate AI into software. I architect the systems around it.**
+Today my strongest focus is **AI product engineering** — designing systems where LLMs, agents, automation, voice, APIs and full-stack software work together as a reliable product.
 
-### By the numbers
+> **I don't just add AI to software. I architect the system around it.**
 
-| | | |
-|---|---|---|
-| **10+** | **70+** | **300+** |
-| Years Engineering | Products Built | Global Clients |
+</td>
+<td width="42%" align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=sunmughan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=7c3aed&icon_color=2563eb" width="100%" />
 
-## 🧠 AI & Generative AI
+</td>
+</tr>
+</table>
 
-I work across the complete AI product stack:
+<div align="center">
 
-- **Agentic AI** — autonomous agents, tool calling, planning and multi-step workflows
-- **LLM Applications** — production applications built around modern language models
-- **RAG Systems** — retrieval pipelines, vector search, knowledge bases and contextual AI
-- **AI Automation** — business workflow automation and AI-powered operations
-- **Multi-Agent Systems** — orchestration, delegation, memory and tool execution
-- **Voice AI** — real-time STT → LLM → TTS conversational pipelines
-- **MCP & API Integrations** — connecting AI systems with tools, data and business software
-- **AI SaaS Architecture** — multi-tenant, scalable AI-first product infrastructure
-- **AI Evaluation & Reliability** — testing, observability and production-oriented system design
+| 🚀 10+ Years | 🧠 70+ Products | 🌍 300+ Clients | ⚡ Remote-first |
+|:---:|:---:|:---:|:---:|
+
+</div>
 
 ---
 
-## 🏗️ What I Build
+## 🧠 AI ENGINEERING — WHERE I WORK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,react,docker,aws,gcp,postgres,redis,linux,git&perline=10" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GENAI-LLMs-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/AGENTS-Tool%20Calling-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-Vector%20Search-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-Tool%20Integration-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/VOICE-STT%20%E2%86%92%20LLM%20%E2%86%92%20TTS-DB2777?style=flat-square" />
+<img src="https://img.shields.io/badge/AUTOMATION-Business%20Workflows-EA580C?style=flat-square" />
+
+</div>
+
+### 🔬 AI / GenAI
+`LLMs` `Generative AI` `AI Agents` `Agentic AI` `RAG` `Vector Search` `Embeddings` `Tool Calling` `MCP` `Voice AI` `STT` `TTS` `AI Automation` `Evaluation` `Observability`
+
+### 🏗️ Product & Architecture
+`SaaS` `Multi-tenancy` `Microservices` `Event-driven Systems` `REST APIs` `WebSockets` `CRM` `ERP` `POS` `FinTech` `Healthcare` `E-commerce` `Enterprise Systems`
+
+---
+
+## 🧩 HOW I TURN AN IDEA INTO A PRODUCTION SYSTEM
+
+<div align="center">
 
 ```text
-Idea
-  ↓
-Product Architecture
-  ↓
-AI / LLM Integration
-  ↓
-Backend + APIs
-  ↓
-Frontend / Mobile
-  ↓
-Cloud Infrastructure
-  ↓
-Automation + Observability
-  ↓
-Production System
+┌──────────────┐     ┌─────────────────┐     ┌────────────────┐
+│    IDEA      │ ──▶ │   ARCHITECTURE  │ ──▶ │  AI / LLM     │
+└──────────────┘     └─────────────────┘     └────────────────┘
+                                                     │
+                                                     ▼
+┌──────────────┐     ┌─────────────────┐     ┌────────────────┐
+│   SCALE      │ ◀── │  CLOUD / CI-CD  │ ◀── │ BACKEND + API  │
+└──────────────┘     └─────────────────┘     └────────────────┘
+        ▲                                             │
+        │                                             ▼
+        └─────────── FRONTEND / MOBILE ◀─────────────┘
+
+             + AUTOMATION + OBSERVABILITY + SECURITY
 ```
 
-I can take ownership across the entire product lifecycle — from **architecture and technical strategy to implementation, deployment and scale**.
+</div>
+
+I take ownership across the lifecycle: **product strategy → architecture → implementation → AI integration → infrastructure → deployment → scale**.
 
 ---
 
-## 🛠️ Engineering Stack
+## 🚀 CURRENT PRODUCT ECOSYSTEM
 
-### AI / Data
+<table>
+<tr>
+<td width="50%">
 
-`LLMs` `Generative AI` `AI Agents` `RAG` `Vector Search` `MCP` `Voice AI` `STT` `TTS` `Prompt Engineering` `AI Automation`
-
-### Backend & APIs
-
-`Python` `Node.js` `PHP` `Laravel` `REST APIs` `WebSockets` `Microservices` `Event-driven Systems`
-
-### Frontend & Mobile
-
-`React` `JavaScript` `Flutter` `Android` `HTML` `CSS`
-
-### Data
-
-`PostgreSQL` `MySQL` `Redis` `Vector Databases` `Caching` `Data Pipelines`
-
-### Cloud & Infrastructure
-
-`AWS` `GCP` `Linux` `Docker` `VPS` `CI/CD` `Deployment` `Monitoring` `Scalability`
-
-### Architecture
-
-`SaaS` `Multi-tenancy` `CRM` `ERP` `POS` `FinTech` `Healthcare` `E-commerce` `Hospitality` `Enterprise Systems`
-
----
-
-## 🚀 Current Product Ecosystem
-
-### 1Mitra
-
-An AI-powered automation and productivity ecosystem combining **AI, voice, WhatsApp workflows, business modules and automation** into a unified platform.
+### 🤖 1Mitra
+AI-powered automation and productivity ecosystem combining **AI, voice, WhatsApp workflows, business modules and automation**.
 
 → https://1mitra.com
 
-### CodeAir Software Solutions
+</td>
+<td width="50%">
 
-An AI-first software engineering company focused on **B2B SaaS, AI systems, digital products, cloud architecture and end-to-end product delivery**.
+### 🏢 CodeAir
+AI-first software engineering company focused on **B2B SaaS, AI systems, digital products and cloud architecture**.
 
 → https://codeair.tech
 
-### PixelGo Ecosystem
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-A multi-tenant business software ecosystem covering **business operations, POS, hospitality, education, e-commerce and vertical-specific workflows**.
+### ⚡ PixelGo
+Multi-tenant business software ecosystem spanning **operations, POS, hospitality, education and e-commerce**.
 
 → https://pixelgo.live
 
-### Printless
+</td>
+<td width="50%">
 
-A digital identity and smart networking platform built around **QR/NFC-powered digital business profiles**.
+### 📇 Printless
+Digital identity and smart networking using **QR/NFC-powered business profiles**.
 
 → https://printless.me
 
----
-
-## 🔬 Selected Engineering Experience
-
-- Architected and delivered software across **SaaS, fintech, healthcare, e-commerce, education, ERP, POS, hospitality and enterprise**.
-- Led product architecture, development, deployment and engineering teams through complete product lifecycles.
-- Designed scalable APIs, cloud infrastructure, multi-tenant systems and business-critical platforms.
-- Worked on technical due diligence, scalability reviews, modernization and architecture decisions for existing systems.
-- Built AI-enabled experiences using **LLMs, automation, voice interfaces, external tools and business integrations**.
-- Long-running technical experience spanning **Android, Linux/platform development, web systems, infrastructure and application engineering**.
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Selected Projects
-
-| Project | Focus |
-|---|---|
-| **CodeAir** | AI-first software engineering & B2B SaaS |
-| **1Mitra** | AI automation & productivity ecosystem |
-| **PixelGo** | Multi-tenant business software ecosystem |
-| **Printless** | Digital identity & QR/NFC networking |
-| **TestDev** | Software / engineering platform |
-| **Finwell** | Financial technology |
-| **Maviinci** | Digital product / business platform |
-
----
-
-## 💻 Open Source & Technical Work
-
-My GitHub work spans **AI, SaaS, web applications, Android, Linux/platform engineering, security tooling, infrastructure and developer-focused software**.
-
-A few public projects:
-
-- [Quantum Shield Obfuscator](https://github.com/sunmughan/quantum-shield-obfuscator)
-- [CodeCrew](https://github.com/sunmughan/CodeCrew)
-- [GMSM Cloud](https://github.com/sunmughan/GMSM_Cloud)
-- [ERP Android](https://github.com/sunmughan/erp-android)
-- [Course Automation](https://github.com/sunmughan/course-automation) — AI-powered interactive engineering training platform
-
----
-
-## 🎯 Remote Availability
-
-**Open to remote opportunities worldwide.**
-
-I'm particularly interested in roles and engagements such as:
-
-`AI Product Engineer` · `AI Engineer` · `Generative AI Engineer` · `Agentic AI Engineer` · `AI Automation Engineer` · `AI Solutions Architect` · `Full-Stack AI Engineer` · `Software Architect` · `Technical Architect` · `CTO` · `Fractional CTO`
-
-**Preferred:** remote-first · async-friendly · high ownership · product-focused · outcome-oriented
-
----
-
-## 🤝 What I Bring
-
-**Technical depth** + **product thinking** + **business understanding** + **execution**
-
-I enjoy problems where the solution is not simply *"write some code"*, but requires deciding **what should be built, how it should be architected, how AI should fit into the system, how it scales, and how it becomes a reliable production product.**
-
----
-
-## 📫 Connect
+## 🛠️ TECH STACK
 
 <div align="center">
 
-**Let's build something technically ambitious.**
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,nodejs,php,laravel,js,react,flutter,android&perline=8" />
 
-[🌐 Website](https://codeair.tech) · [💼 LinkedIn](https://www.linkedin.com/in/sunmughan) · [🐙 GitHub](https://github.com/sunmughan) · [📧 Email](mailto:sunmughan@gmail.com)
+### Data, Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,gcp,linux,git&perline=8" />
 
 </div>
 
 ---
 
+## 🔥 SELECTED ENGINEERING EXPERIENCE
+
+- **AI & Agentic Systems** — LLM applications, agents, tool execution, automation and production AI workflows.
+- **SaaS Architecture** — multi-tenant platforms, APIs, billing/business logic and scalable application infrastructure.
+- **Enterprise Systems** — CRM, ERP, POS, fintech, healthcare, education, hospitality and e-commerce platforms.
+- **Cloud & Infrastructure** — Linux, AWS/GCP, VPS, Docker, CI/CD, deployment, monitoring and performance.
+- **Technical Architecture** — scalability reviews, modernization, security, technical due diligence and system design.
+- **Platform Engineering** — long-running work across Android, Linux/platform development, web systems and application engineering.
+
+---
+
+## 📌 SELECTED PROJECTS
+
 <div align="center">
+
+<a href="https://github.com/sunmughan/quantum-shield-obfuscator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sunmughan&repo=quantum-shield-obfuscator&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/sunmughan/course-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sunmughan&repo=course-automation&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/sunmughan/CodeCrew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sunmughan&repo=CodeCrew&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/sunmughan/GMSM_Cloud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sunmughan&repo=GMSM_Cloud&theme=transparent&hide_border=true" /></a>
+
+</div>
+
+---
+
+## 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunmughan&layout=compact&hide_border=true&theme=transparent&title_color=7c3aed" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunmughan&hide_border=true&theme=transparent&ring=7c3aed&fire=2563eb&currStreakLabel=7c3aed" height="165" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunmughan&bg_color=00000000&color=7c3aed&line=2563eb&point=7c3aed&area=true&hide_border=true" width="96%" />
+
+</div>
+
+---
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sunmughan&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="96%" />
+
+</div>
+
+---
+
+## 🎯 OPEN TO REMOTE OPPORTUNITIES
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=AI+Product+Engineer;AI+Solutions+Architect;Agentic+AI+Engineer;Generative+AI+Engineer;AI+Automation+Engineer;Full-Stack+AI+Engineer;Software+%2F+Technical+Architect;CTO+%2F+Fractional+CTO" />
+
+</div>
+
+**Preferred:** `Remote-first` · `Async-friendly` · `High ownership` · `Product-focused` · `Outcome-oriented`
+
+I enjoy roles where I can own the hard parts: **what to build, how to architect it, how AI fits into the system, how it scales, and how it becomes dependable production software.**
+
+---
+
+## 💻 OPEN SOURCE & TECHNICAL WORK
+
+A few public projects from a broader body of work across **AI, SaaS, Android, Linux/platform engineering, security tooling, infrastructure and developer software**:
+
+- 🔐 [Quantum Shield Obfuscator](https://github.com/sunmughan/quantum-shield-obfuscator)
+- 👥 [CodeCrew](https://github.com/sunmughan/CodeCrew)
+- ☁️ [GMSM Cloud](https://github.com/sunmughan/GMSM_Cloud)
+- 📱 [ERP Android](https://github.com/sunmughan/erp-android)
+- 🎓 [Course Automation](https://github.com/sunmughan/course-automation) — AI-powered interactive engineering training platform
+
+---
+
+## 🧠 WHAT I BRING
+
+<div align="center">
+
+**TECHNICAL DEPTH**  ×  **PRODUCT THINKING**  ×  **BUSINESS LOGIC**  ×  **EXECUTION**
+
+</div>
+
+> The interesting problems are rarely just *"write some code."* They are about deciding what should exist, designing the right architecture, integrating AI where it creates leverage, and shipping something that survives production.
+
+---
+
+## 📫 LET'S BUILD SOMETHING AMBITIOUS
+
+<div align="center">
+
+<a href="https://codeair.tech"><img src="https://img.shields.io/badge/🌐%20Website-codeair.tech-111827?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/sunmughan"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
+<a href="mailto:sunmughan@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-sunmughan%40gmail.com-7C3AED?style=for-the-badge" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:2563eb,100:0f172a&animation=twinkling" width="100%" />
 
 ### AI · Automation · SaaS · Architecture · Product Engineering
 
