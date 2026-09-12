@@ -1,0 +1,68 @@
+<svg
+  width="854"
+  height="120"
+  viewBox="0 0 854 120"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="z-index:1;position:relative"
+>
+  <defs>
+    <linearGradient id="linearFooter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="linearFooterDeep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6d28d9"/>
+      <stop offset="50%" stop-color="#1e40af"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Solid base layer for guaranteed high contrast in both dark & light themes -->
+  <rect y="30" width="854" height="90" fill="url(#linearFooterDeep)" rx="6"/>
+
+  <g>
+    <!-- Wave layer 1 -->
+    <path
+      d="M0 120 L0 30 Q213.5 0 427 35 T854 20 L854 120 Z"
+      fill="url(#linearFooter)"
+      opacity="0.85"
+    >
+      <animate
+        attributeName="d"
+        dur="18s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="0s"
+        values="M0 120 L0 30 Q213.5 0 427 35 T854 20 L854 120 Z;
+                M0 120 L0 15 Q213.5 40 427 15 T854 35 L854 120 Z;
+                M0 120 L0 35 Q213.5 10 427 40 T854 15 L854 120 Z;
+                M0 120 L0 30 Q213.5 0 427 35 T854 20 L854 120 Z"
+      />
+    </path>
+
+    <!-- Wave layer 2 -->
+    <path
+      d="M0 120 L0 40 Q213.5 15 427 30 T854 25 L854 120 Z"
+      fill="url(#linearFooter)"
+      opacity="0.9"
+    >
+      <animate
+        attributeName="d"
+        dur="18s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="-9s"
+        values="M0 120 L0 40 Q213.5 15 427 30 T854 25 L854 120 Z;
+                M0 120 L0 25 Q213.5 45 427 15 T854 40 L854 120 Z;
+                M0 120 L0 20 Q213.5 0 427 35 T854 15 L854 120 Z;
+                M0 120 L0 40 Q213.5 15 427 30 T854 25 L854 120 Z"
+      />
+    </path>
+  </g>
+</svg>

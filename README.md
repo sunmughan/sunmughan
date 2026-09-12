@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:7c3aed&text=SUNMUGHAN%20SWAMY&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20PRODUCT%20ENGINEER%20%E2%80%A2%20SOLUTIONS%20ARCHITECT%20%E2%80%A2%20FOUNDER%20%26%20CTO&descAlignY=62&descSize=15&animation=twinkling" width="100%" />
+<img src="assets/header.svg" width="100%" />
 
 <br/>
 
@@ -257,7 +257,7 @@ A few public projects from a broader body of work across **AI, SaaS, Android, Li
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:2563eb,100:0f172a&animation=twinkling" width="100%" />
+<img src="assets/footer.svg" width="100%" />
 
 ### AI · Automation · SaaS · Architecture · Product Engineering
 
