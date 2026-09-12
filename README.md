@@ -8,13 +8,6 @@
 
 <br/>
 
-<a href="https://codeair.tech"><img src="https://img.shields.io/badge/🌐%20CodeAir-111827?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/sunmughan"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge" /></a>
-<a href="https://github.com/sunmughan"><img src="https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge" /></a>
-<a href="mailto:sunmughan@gmail.com"><img src="https://img.shields.io/badge/📧%20Contact-7C3AED?style=for-the-badge" /></a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=sunmughan&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/sunmughan?style=for-the-badge&label=FOLLOWERS" />
 
@@ -245,15 +238,17 @@ A few public projects from a broader body of work across **AI, SaaS, Android, Li
 <div align="center">
 
 <a href="https://codeair.tech"><img src="https://img.shields.io/badge/🌐%20Website-codeair.tech-111827?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/sunmughan"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
-<a href="mailto:sunmughan@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-sunmughan%40gmail.com-7C3AED?style=for-the-badge" /></a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/sunmughan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/sunmughan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://facebook.com/sunmughan"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="mailto:sunmughan@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/919584215603"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 
 <br/><br/>
 
 <img src="assets/footer.svg" width="100%" />
-
-### AI · Automation · SaaS · Architecture · Product Engineering
-
-*Building systems that turn complex workflows into scalable software.*
 
 </div>
