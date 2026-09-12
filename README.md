@@ -24,26 +24,19 @@
 
 ## ⚡ THE SHORT VERSION
 
-<table>
-<tr>
-<td width="58%">
-
 I'm a **software engineer, product architect, founder and CTO** with **10+ years of engineering experience** building products from architecture through production.
 
 Today my strongest focus is **AI product engineering** — designing systems where LLMs, agents, automation, voice, APIs and full-stack software work together as a reliable product.
 
 > **I don't just add AI to software. I architect the system around it.**
 
-</td>
-<td width="42%" align="center">
-
-<img src="https://github-readme-stats-alpha.vercel.app/api?username=sunmughan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=7c3aed&icon_color=2563eb" width="100%" />
-
-</td>
-</tr>
-</table>
+<br/>
 
 <div align="center">
+
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=sunmughan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=7c3aed&icon_color=2563eb" />
+
+<br/><br/>
 
 | 🚀 10+ Years | 🧠 70+ Products | 🌍 300+ Clients | ⚡ Remote-first |
 |:---:|:---:|:---:|:---:|
