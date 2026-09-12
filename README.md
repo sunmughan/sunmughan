@@ -37,7 +37,7 @@ Today my strongest focus is **AI product engineering** — designing systems whe
 </td>
 <td width="42%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sunmughan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=7c3aed&icon_color=2563eb" width="100%" />
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=sunmughan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=7c3aed&icon_color=2563eb" width="100%" />
 
 </td>
 </tr>
@@ -175,10 +175,10 @@ Digital identity and smart networking using **QR/NFC-powered business profiles**
 
 <div align="center">
 
-<a href="https://github.com/sunmughan/quantum-shield-obfuscator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sunmughan&repo=quantum-shield-obfuscator&theme=transparent&hide_border=true" /></a>
-<a href="https://github.com/sunmughan/course-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sunmughan&repo=course-automation&theme=transparent&hide_border=true" /></a>
-<a href="https://github.com/sunmughan/CodeCrew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sunmughan&repo=CodeCrew&theme=transparent&hide_border=true" /></a>
-<a href="https://github.com/sunmughan/GMSM_Cloud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sunmughan&repo=GMSM_Cloud&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/sunmughan/quantum-shield-obfuscator"><img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=sunmughan&repo=quantum-shield-obfuscator&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/sunmughan/course-automation"><img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=sunmughan&repo=course-automation&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/sunmughan/CodeCrew"><img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=sunmughan&repo=CodeCrew&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/sunmughan/GMSM_Cloud"><img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=sunmughan&repo=GMSM_Cloud&theme=transparent&hide_border=true" /></a>
 
 </div>
 
@@ -188,12 +188,12 @@ Digital identity and smart networking using **QR/NFC-powered business profiles**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunmughan&layout=compact&hide_border=true&theme=transparent&title_color=7c3aed" height="165" />
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=sunmughan&layout=compact&hide_border=true&theme=transparent&title_color=7c3aed" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunmughan&hide_border=true&theme=transparent&ring=7c3aed&fire=2563eb&currStreakLabel=7c3aed" height="165" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunmughan&bg_color=00000000&color=7c3aed&line=2563eb&point=7c3aed&area=true&hide_border=true" width="96%" />
+<img src="https://activity-graph.vercel.app/graph?username=sunmughan&bg_color=00000000&color=7c3aed&line=2563eb&point=7c3aed&area=true&hide_border=true" width="96%" />
 
 </div>
 
@@ -203,7 +203,7 @@ Digital identity and smart networking using **QR/NFC-powered business profiles**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sunmughan&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="96%" />
+<img src="https://github-profile-trophy-green.vercel.app/?username=sunmughan&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="96%" />
 
 </div>
 
